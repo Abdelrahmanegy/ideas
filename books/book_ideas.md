@@ -9,3 +9,4 @@
 - [x] RxSwift by tutorials
 - [x] Mastering git
 - [ ] care and feeding for developers
+- [ ] studying Algo and DS
