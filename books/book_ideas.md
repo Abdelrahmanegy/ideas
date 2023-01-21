@@ -10,4 +10,5 @@
 - [x] Mastering git
 - [ ] care and feeding for developers
 - [ ] studying design patterns
+- [ ] mastering vue.js
 
